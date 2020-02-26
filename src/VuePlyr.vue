@@ -5,7 +5,7 @@
 </template>
 
 <script>
-  import Plyr from 'plyr/dist/plyr.polyfilled.min.js'
+  import Plyr from 'plyr'
 
   export default {
     name: 'VuePlyr',
